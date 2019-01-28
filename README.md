@@ -13,4 +13,5 @@
 
 ### ☕️ Python   
 
-- [作業系統](https://github.com/samuel-yang1988/CS-Notes/blob/master/docs/notes/operation%20system.md)
+- [基礎Ptython](https://github.com/samuel-yang1988/CS-Notes/blob/master/docs/notes/Python.md)
+
