@@ -14,5 +14,9 @@
 ### ☕️ Python   
 
 - [基礎Ptython](https://github.com/samuel-yang1988/CS-Notes/blob/master/docs/notes/Python.md)
-- []
+ 
 
+### 💻  Angular  
+
+- [Tutorial](https://github.com/samuel-yang1988/angular-tutorial)
+ 
